@@ -1,4 +1,4 @@
-# news-assistant
+# NewsNexus
 ### Introduction:
 The News Assistant is a project that aims to help users stay up-to-date with the latest news in the cryptocurrency world. It has two parts: news search and news recommendation. The news search allows users to search for specific news articles related to different cryptocurrencies, while the news recommendation system suggests relevant news articles to users based on their interests.
 
